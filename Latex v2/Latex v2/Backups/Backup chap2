@@ -1,0 +1,99 @@
+% \input{Parts/commands.tex}
+
+\chapter{Approches sur les applications mobiles}
+\section{Introduction}
+Dans ces derniers temps, la
+possession d'un smartphone ou une tablette est devenue indispensable dans notre vie quotidienne, ces derniers sont gérés par de nombreux systèmes d'exploitation.
+\\
+\\
+
+Les systèmes d'exploitation sont des logiciels conçus pour faire fonctionner un smartphone en permettant à l'utilisateur de réaliser plusieurs tâches comme passer un appel, prendre des photos et même télécharger des applications pour mieux exploiter son smartphone.
+\\\\
+Dans ce chapitre nous allons nous focaliser sur les différents systèmes d'exploitation et le développement des applications mobiles , nous commençons par une définition d'Android et IOS, ensuite nous allons faire une comparaison entre les deux systèmes d'exploitation et pour finir , nous allons parler sur le développement des applications mobiles et les différents outils utilisés dans ce domaine.
+\section{L'environnement Android}
+\subsection{Définition}
+Android est un système d'exploitation créé par Google, ce système permet d'utiliser son smartphone, le personnaliser et même télécharger des applications pour faciliter les tâches quotidiennes de l'utilisateur et mieux exploiter son appareil.
+\\
+\\
+lancé en 2007, ce système a été développé et ce jusqu'à la version 10 appelée android Q.
+\newpage
+\subsection{L'architecture d'android }
+Le système Android est divisé en 4 couches principales et 5 sections sous format d'une pile de composants logiciels
+\\
+\\
+Android est basé sur un kernel linux 2.6.xx, au dessus du kernel il y a "l'hardware abstraction layer" qui permet de séparer la plateforme logique du matériel.
+Au dessus de cette couche d'abstraction on retrouve les librairies C/C++ utilisées par un certain nombre de composants du système Android.
+Au dessus des librairies on retrouve l'Android Runtime, cette couche contient les librairies cœurs du Framework ainsi que la machine virtuelle exécutant les applications.
+Au dessus la couche "Android Runtime" et des librairies cœurs on retrouve le Framework permettant au développeur de créer des applications. Enfin au dessus du Framework il y a les applications.
+
+\begin{figure}[htbp]
+    \begin{center}
+        \includegraphics[width=5in]{images/android_architecture.jpg}%{3.jpg}
+        \caption{L'architecture android}
+    \end{center}
+\end{figure}
+\section{L'environnement IOS}
+\subsection{Definition}
+
+IOS est un systeme d'exploitation mobile crée par Appple . Il est utilisé par les generations successives d'iPhone depuis la sortie du premier modele en 2007 puis l'iPad depuis 2010.
+\\
+
+on trouve aussi d'autres derivés d'IOS comme le watchOS de l'apple Watch et le tvOS du boitier AppleTV.
+
+\section{Les Technologies Utilisés}
+\subsection{Flutter}
+\begin{wrapfigure}[8]{r}{2cm}
+    \vspace{-15pt}
+    \includegraphics[width=2cm]{images/flutterLogo.png}
+    \vspace{-20pt}
+    \caption{{\footnotesize Logo de Flutter}}
+\end{wrapfigure}
+Flutter est un SDK d'application permettant de créer des applications haute performance et haute fidélité pour iOS, Android, Web (version bêta) et de bureau (aperçu technique) à partir d'une base de code unique. ~\cite{TechnicalOverview}
+\\
+L'objectif est de permettre aux développeurs de fournir des applications hautes performances qui semblent naturelles sur différentes plateformes notament appelés les applications multi-platformes.
+\\
+Flutter s’appuie sur le langage de programmation DART (à l’origine appelé Dash), créé également par Google et présenté au public en 2011.
+\subsubsection{Le language Dart }
+\begin{wrapfigure}[8]{r}{2cm}
+    \vspace{-15pt}
+    \includegraphics[width=2cm]{images/dartLogo.jpg}
+    \vspace{-20pt}
+    \caption{{\footnotesize Logo de Dart}}
+\end{wrapfigure}
+Le Dart est un langage de programmation structuré, open source et évolutif qui fonctionne à l'aide d'une machine virtuelle. Le projet de google à travers le dart est de faciliter le développement web, de combler les carrences du javascript et d'offrir de meilleurs performances, surtout pour les gros projets. Le Dart est destiné à fonctionner sur les navigateurs web modernes ainsi que sur les serveurs et il embarque également un convertisseur Javascript. Il y a plusieurs manières d'exécuter du code Dart; soit en utilisant un navigateur qui supporte directement ce code, soit en le compilant. En plus du navigateur Web et de la convertion javascript, le code peut être exécuté en ligne de commande, hébergé dans une machine virtuelle ce qui permet au client et au serveur d'avoir les applications écrites dans le même langage.~\cite{DartSUPINFOEcole}
+\subsubsection{Principes de base}
+Flutter comprend un framework de style réact moderne, un moteur de rendu 2D, des widgets prêts à l’emploi et des outils de développement. Ces composants fonctionnent ensemble pour vous aider à concevoir, créer, tester et déboguer des applications. Tout est organisé autour de quelques principes
+fondamentaux.
+\begin{enumerate}
+    \item \textbf{Tout est un widget}\\
+          Les widgets sont les éléments de base de l’interface utilisateur d’une application Flutter. Chaque widget est une déclaration immuable d’une partie de l’interface utilisateur. Contrairement aux autres frameworks qui séparent les vues, les contrôleurs de vue, les présentations et d’autres propriétés, Flutter possède un modèle objet cohérent et unifié : le widget. Un widget peut
+          définir :
+          \begin{itemize}
+              \item un élement structurel (comme un bouton ou un menu).
+              \item un élement stylistique (comme une police ou un jeu de couleurs).
+              \item un aspect de la mise en page (comme le rembourage).
+              \item etc...
+          \end{itemize}
+    \item \textbf{Les parcticularités de Flutter}\\
+
+          Flutter présente 2 spécificités principales :
+          \begin{itemize}
+              \item \textbf{Les widgets :}ils permettent de décrire simplement le rendu final. Chaque objet est défini indépendamment des contraintes parentes. C’est son emplacement dans le code qui permettra de définir ses contraintes extérieures. Cela permet de construire facilement son interface ; le code est alors plus facilement lisible et maintenable.
+                    \\
+              \item \textbf{Les composants :}ils ont été recréés par Google. Les développeurs disposent d’une galerie de composants s’adaptant à IOS comme Android, et aux différentes versions d’OS.
+          \end{itemize}
+          Grâce à la fonctionnalité Hot Reload du langage DART, le build des applications est très rapide, ce qui rend quasiment invisible le temps de compilation. Un autre gain de temps pour les développeurs .Les avantages sont donc nombreux, mais il existe aussi des inconvénients. ~\cite{FlutterParticularitesAvantages2019}
+          \begin{figure}[h]
+
+              \begin{center}
+                  \includegraphics[width=11cm]{images/flutterDemoApp.png}
+                  \caption{{\footnotesize Architecture du développement mobile a l'aide des Reactive Views\cite{leler_whats_2017}}}
+              \end{center}
+          \end{figure}
+\end{enumerate}
+\subsection{Firebase}
+\subsubsection{Introduction}
+\subsubsection{Bref Historique}
+\subsubsection{Les services firebase}
+\subsubsection{Pourquoi utiliser Firebase ?}
+\subsection{Google APi's}

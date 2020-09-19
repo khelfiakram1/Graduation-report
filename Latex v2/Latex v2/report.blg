@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: biblio.bib
+Warning--to sort, need author or key in SystemeExploitationMobile
+Warning--to sort, need author or key in AndroidWikipedia
+Warning--to sort, need author or key in IOS2020
+Warning--to sort, need author or key in ApplicationMobile2020
+Warning--to sort, need author or key in CycleVieDeveloppement
+Warning--to sort, need author or key in TechnicalOverview
+Warning--to sort, need author or key in FlutterArchitecturalOverview
+Warning--to sort, need author or key in DartSUPINFOEcole
+Warning--to sort, need author or key in Firebase2020
+Warning--to sort, need author or key in FirebasePricing
+Warning--to sort, need author or key in GoogleAPIs2020
+Warning--to sort, need author or key in GoogleMapsWikipedia
+Warning--to sort, need author or key in TheFork2020
+Warning--to sort, need author or key in RestaurantsSiteReservation
+Warning--to sort, need author or key in Balsamiq2020
+Warning--to sort, need author or key in MaterialDesign2020
+Warning--to sort, need author or key in AdobeXD2020
+Warning--empty author in AdobeXD2020
+Warning--empty author in ApplicationMobile2020
+Warning--empty author in Balsamiq2020
+Warning--empty author in Firebase2020
+Warning--empty author in GoogleAPIs2020
+Warning--empty author in IOS2020
+Warning--empty author in MaterialDesign2020
+Warning--empty author in TheFork2020
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            561 strings with 5824 characters,
+and the built_in function-call counts, 2781 in all, are:
+= -- 263
+> -- 17
+< -- 0
++ -- 17
+- -- 0
+* -- 151
+:= -- 340
+add.period$ -- 34
+call.type$ -- 17
+change.case$ -- 51
+chr.to.int$ -- 0
+cite$ -- 42
+duplicate$ -- 143
+empty$ -- 352
+format.name$ -- 0
+if$ -- 649
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 8
+newline$ -- 71
+num.names$ -- 0
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 127
+stack$ -- 0
+substring$ -- 85
+swap$ -- 17
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 68
+warning$ -- 25
+while$ -- 0
+width$ -- 19
+write$ -- 129
+(There were 25 warnings)

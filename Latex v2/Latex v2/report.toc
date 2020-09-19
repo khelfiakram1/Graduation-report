@@ -1,0 +1,58 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Remerciements}{1}%
+\contentsline {chapter}{\numberline {1}Generalités sur les applications mobiles}{8}%
+\contentsline {section}{\numberline {1.1}Introduction}{8}%
+\contentsline {section}{\numberline {1.2}Les systèmes d'exploitation mobiles}{8}%
+\contentsline {subsection}{\numberline {1.2.1}Définition}{8}%
+\contentsline {subsection}{\numberline {1.2.2}Le système Android}{9}%
+\contentsline {subsection}{\numberline {1.2.3}Le système iOS}{11}%
+\contentsline {section}{\numberline {1.3}Les applications mobiles}{13}%
+\contentsline {subsection}{\numberline {1.3.1}Definition}{13}%
+\contentsline {subsection}{\numberline {1.3.2}Les types des applications mobiles}{14}%
+\contentsline {subsubsection}{Application native :}{14}%
+\contentsline {subsubsection}{Application web :}{14}%
+\contentsline {subsubsection}{Application hybride :}{14}%
+\contentsline {subsection}{\numberline {1.3.3}Le cycle de vie d'une application mobile}{15}%
+\contentsline {subsubsection}{1- Planification et analyse:}{15}%
+\contentsline {subsubsection}{2- Spécification technique:}{15}%
+\contentsline {subsubsection}{3- Prototypage et conception:}{15}%
+\contentsline {subsubsection}{4- Développement:}{15}%
+\contentsline {subsubsection}{5- Tests et assurance de qualité:}{15}%
+\contentsline {subsubsection}{6- Maintenance et mise à jour:}{15}%
+\contentsline {chapter}{\numberline {2}Les technologies utilisées}{16}%
+\contentsline {section}{\numberline {2.1}Introduction}{16}%
+\contentsline {section}{\numberline {2.2}Flutter}{16}%
+\contentsline {subsection}{\numberline {2.2.1}Principes de base}{18}%
+\contentsline {subsection}{\numberline {2.2.2}Pourquoi utiliser flutter ? }{19}%
+\contentsline {section}{\numberline {2.3}Firebase}{20}%
+\contentsline {subsection}{\numberline {2.3.1}Les services de Firebase}{20}%
+\contentsline {subsection}{\numberline {2.3.2}Pourquoi utiliser Firebase ?}{22}%
+\contentsline {section}{\numberline {2.4}Google APIs}{24}%
+\contentsline {subsection}{\numberline {2.4.1}Google Maps}{24}%
+\contentsline {chapter}{\numberline {3}Conception et implémentation de l'application}{26}%
+\contentsline {section}{\numberline {3.1}Introduction}{26}%
+\contentsline {section}{\numberline {3.2}Conception}{26}%
+\contentsline {subsection}{\numberline {3.2.1}Objectif du projet}{26}%
+\contentsline {subsection}{\numberline {3.2.2}Applications déja existantes}{26}%
+\contentsline {subsubsection}{TripAdvisor}{27}%
+\contentsline {subsubsection}{Google Maps}{28}%
+\contentsline {subsubsection}{LaFourchette}{29}%
+\contentsline {subsection}{\numberline {3.2.3}Les diagrammes UML}{29}%
+\contentsline {subsubsection}{Diagrammes de séquence}{30}%
+\contentsline {subsubsection}{Diagramme d'action}{31}%
+\contentsline {subsection}{\numberline {3.2.4}Maquette fonctionelle (Wireframe)}{32}%
+\contentsline {subsubsection}{Définition}{32}%
+\contentsline {subsubsection}{Outil utilisé}{32}%
+\contentsline {subsubsection}{Les différents ecrans}{33}%
+\contentsline {subsection}{\numberline {3.2.5}Prototypage et interface utilisateur}{40}%
+\contentsline {subsubsection}{Material design}{40}%
+\contentsline {subsubsection}{Outil utilisé (Adobe XD)}{41}%
+\contentsline {subsubsection}{Les Maquettes UI/UX}{42}%
+\contentsline {section}{\numberline {3.3}Implementation}{45}%
+\contentsline {subsection}{\numberline {3.3.1}Outils Materiels}{45}%
+\contentsline {subsection}{\numberline {3.3.2}Outils Logiciels}{46}%
+\contentsline {subsubsection}{Visual Studio Code}{46}%
+\contentsline {subsection}{\numberline {3.3.3}Developpement}{47}%
+\contentsline {subsubsection}{Base de données}{47}%
+\contentsline {subsubsection}{Les packages utilisés: }{48}%
+\contentsline {chapter}{\numberline {4}Conslusion et perspectives}{49}%

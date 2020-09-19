@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{AndroidWikipedia}
+Android \textemdash{} {{Wikip\'edia}}.
+\newblock https://fr.wikipedia.org/wiki/Android.
+
+\bibitem{CycleVieDeveloppement}
+Cycle de vie du d\'eveloppement d'une application mobile.
+\newblock
+  https://appinov.com/blog/article/cycle-de-vie-du-developpement-d-une-application-mobile.
+
+\bibitem{FirebasePricing}
+Firebase {{Pricing}}.
+\newblock
+  https://firebase.google.com/pricing/?gclid=CjwKCAjw19z6BRAYEiwAmo64LfroajM6NixUZ1jph\_6HHS\_tkvt6uEBi0bvl88MF8GvwjtxhILeaExoCD2IQAvD\_BwE.
+
+\bibitem{FlutterArchitecturalOverview}
+Flutter architectural overview.
+\newblock https://flutter.dev/docs/resources/architectural-overview.
+
+\bibitem{GoogleMapsWikipedia}
+Google {{Maps}} \textemdash{} {{Wikip\'edia}}.
+\newblock https://fr.wikipedia.org/wiki/Google\_maps.
+
+\bibitem{DartSUPINFOEcole}
+Le {{Dart}} | {{SUPINFO}}, {{\'Ecole Sup\'erieure}} d'{{Informatique}}.
+\newblock https://www.supinfo.com/articles/single/6001-dart.
+
+\bibitem{RestaurantsSiteReservation}
+{Restaurants: le site de r\'eservation LaFourchette change de nom pour TheFork
+  (m\^eme en France)}.
+\newblock
+  https://www.bfmtv.com/economie/consommation/restaurants-le-site-de-reservation-la-fourchette-change-de-nom-pour-the-fork-meme-en-france\_AN-202002110099.html.
+
+\bibitem{SystemeExploitationMobile}
+Syst\`eme d'exploitation mobile \textemdash{} {{Wikip\'edia}}.
+\newblock
+  https://fr.wikipedia.org/wiki/Syst\%C3\%A8me\_d\%27exploitation\_mobile.
+
+\bibitem{TechnicalOverview}
+Technical overview.
+\newblock https://flutter.dev/docs/resources/technical-overview.
+
+\bibitem{AdobeXD2020}
+Adobe {{XD}}.
+\newblock {\em Wikipedia}, September 2020.
+
+\bibitem{ApplicationMobile2020}
+{Application mobile}.
+\newblock {\em Wikip\'edia}, July 2020.
+
+\bibitem{Balsamiq2020}
+Balsamiq.
+\newblock {\em Wikipedia}, August 2020.
+
+\bibitem{Firebase2020}
+Firebase.
+\newblock {\em Wikipedia}, August 2020.
+
+\bibitem{GoogleAPIs2020}
+Google {{APIs}}.
+\newblock {\em Wikipedia}, August 2020.
+
+\bibitem{IOS2020}
+{iOS}.
+\newblock {\em Wikip\'edia}, September 2020.
+
+\bibitem{MaterialDesign2020}
+{Material design}.
+\newblock {\em Wikip\'edia}, February 2020.
+
+\bibitem{TheFork2020}
+{TheFork}.
+\newblock {\em Wikip\'edia}, September 2020.
+
+\end{thebibliography}

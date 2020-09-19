@@ -1,0 +1,1059 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.19)  19 SEP 2020 21:33
+entering extended mode
+**"/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.tex"
+("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03> ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty"
+Package: babel 2020/09/01 3.48 The Babel package
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.def"
+File: babel.def 2020/09/01 3.48 Babel common definitions
+\babel@savecnt=\count177
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count178
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel-french/french.ldf"
+Language: french 2020/07/02 v3.5j French support from the babel system
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language22) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language22) on input line 92.
+\FB@nonchar=\count179
+Package babel Info: Making : an active character on input line 428.
+Package babel Info: Making ; an active character on input line 429.
+Package babel Info: Making ! an active character on input line 430.
+Package babel Info: Making ? an active character on input line 431.
+\FBguill@level=\count180
+\FBold@everypar=\toks15
+\FB@Mht=\dimen136
+\mc@charclass=\count181
+\mc@charfam=\count182
+\mc@charslot=\count183
+\std@mcc=\count184
+\dec@mcc=\count185
+\c@FBcaption@count=\count186
+\listindentFB=\dimen137
+\descindentFB=\dimen138
+\labelindentFB=\dimen139
+\labelwidthFB=\dimen140
+\leftmarginFB=\dimen141
+\parindentFFN=\dimen142
+\FBfnindent=\dimen143
+)) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/carlisle/scalefnt.sty") ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def"
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks19
+ ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg")) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty"
+\wrapoverhang=\dimen154
+\WF@size=\dimen155
+\c@WF@wrappedlines=\count190
+\WF@box=\box45
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen156
+\enit@toks=\toks21
+\enit@inbox=\box46
+\enit@count@id=\count191
+\enitdp@description=\count192
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/placeins/placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `report.idx'.
+
+
+Writing index file report.idx
+("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/base/glossaries.sty"
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex" ("/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mfirstuc/mfirstuc.sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty"
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+\@glsmfirst=\toks25
+\@glsmrest=\toks26
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/textcase/textcase.sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xfor/xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datatool/datatool-base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen157
+)) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks28
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks29
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks30
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/substr/substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count273
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datatool/datatool-fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp.sty"
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count274
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count275
+\FP@xia=\count276
+\FP@xib=\count277
+\FP@xfa=\count278
+\FP@xfb=\count279
+\FP@rega=\count280
+\FP@regb=\count281
+\FP@regs=\count282
+\FP@times=\count283
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-addons.sty"
+Package: fp-addons 1995/03/15
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-snap.sty"
+Package: fp-snap 1995/04/05
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-exp.sty"
+Package: fp-exp 1995/04/03
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-pas.sty"
+Package: fp-pas 1994/08/29
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count284
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-upn.sty"
+Package: fp-upn 1996/10/21
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fp/fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks32
+\@dtl@tmpcount=\count285
+\dtl@tmplength=\skip62
+\dtl@sortresult=\count286
+\@dtl@numgrpsepcount=\count287
+\@dtl@datatype=\count288
+\dtl@codeA=\count289
+\dtl@codeB=\count290
+\@dtl@foreach@level=\count291
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/base/glossaries-compatible-307.sty"
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tracklang/tracklang.sty"
+Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
+ ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/generic/tracklang/tracklang.tex")) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator.sty"
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries-french/glossaries-french.ldf"
+File: glossaries-french.ldf 2016/12/12 v1.1
+)
+\glossary@main@sortcount=\count292
+\gls@level=\count293
+\@gls@tmpb=\toks33
+\gls@tmplen=\skip63
+\glskeylisttok=\toks34
+\glslabeltok=\toks35
+\glsshorttok=\toks36
+\glslongtok=\toks37
+ ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/styles/glossary-hypernav.sty"
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/styles/glossary-list.sty"
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip64
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/styles/glossary-long.sty"
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count294
+\LTcapwidth=\dimen166
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count295
+\LT@rows=\count296
+\c@LT@tables=\count297
+\c@LT@chunks=\count298
+\LT@p@ftn=\toks38
+)
+\glsdescwidth=\skip69
+\glspagelistwidth=\skip70
+) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/styles/glossary-super.sty"
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+ ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/supertabular/supertabular.sty"
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count299
+\ST@wd=\dimen167
+\ST@rightskip=\skip71
+\ST@leftskip=\skip72
+\ST@parfillskip=\skip73
+\ST@pageleft=\dimen168
+\ST@headht=\dimen169
+\ST@tailht=\dimen170
+\ST@pagesofar=\dimen171
+\ST@pboxht=\dimen172
+\ST@lineht=\dimen173
+\ST@prevht=\dimen174
+\ST@toadd=\dimen175
+\ST@dimen=\dimen176
+\ST@pbox=\box53
+)) ("/Users/macbook/Library/Application Support/MiKTeX/texmfs/install/tex/latex/glossaries/styles/glossary-tree.sty"
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip74
+)) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/glossaire.tex"
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `report.glo'.
+
+Package glossaries Info: Writing glossary file report.glo on input line 1.
+) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/commands.tex") ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count300
+\l__pdf_internal_box=\box54
+) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.aux"
+
+LaTeX Warning: Label `fig:ios Ui' multiply defined.
+
+
+LaTeX Warning: Label `fig:ios Ui' multiply defined.
+
+
+LaTeX Warning: Label `fig:firebasepricing' multiply defined.
+
+
+LaTeX Warning: Label `fig:firebasepricing' multiply defined.
+
+
+LaTeX Warning: Label `fig:pageresto' multiply defined.
+
+
+LaTeX Warning: Label `fig:label6' multiply defined.
+
+
+LaTeX Warning: Label `fig:firebasepricing' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \degres on input line 31.
+LaTeX Info: Redefining \dots on input line 31.
+LaTeX Info: Redefining \up on input line 31.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen177
+\scratchbox=\box55
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen178
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks40
+) ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/remerciements.tex") ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/resume.tex" [1
+
+\openout4 = `report.ist'.
+
+{/Users/macbook/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map}]) [2] ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.lof"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ ("/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+])
+\tf@lof=\write6
+\openout6 = `report.lof'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[4] ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.lot")
+\tf@lot=\write7
+\openout7 = `report.lot'.
+
+
+No file report.gls.
+[5
+
+] ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.toc" [6
+
+])
+\tf@toc=\write8
+\openout8 = `report.toc'.
+
+ ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/Chapter1v2.tex"
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+Make it at least 14.61858pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[7]
+Chapitre 1.
+<images/Chapitre1/android.jpg, id=28, 1185.96924pt x 1034.94347pt>
+File: images/Chapitre1/android.jpg Graphic file (type jpg)
+<use images/Chapitre1/android.jpg>
+Package pdftex.def Info: images/Chapitre1/android.jpg  used on input line 26.
+(pdftex.def)             Requested size: 85.35826pt x 74.47481pt.
+
+Underfull \hbox (badness 6110) in paragraph at lines 28--28
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 1.1 
+ []
+
+[8
+
+]
+<images/Chapitre1/surcouche.jpg, id=34, 786.2976pt x 575.9919pt>
+File: images/Chapitre1/surcouche.jpg Graphic file (type jpg)
+<use images/Chapitre1/surcouche.jpg>
+Package pdftex.def Info: images/Chapitre1/surcouche.jpg  used on input line 43.
+(pdftex.def)             Requested size: 289.07999pt x 211.76016pt.
+<images/Chapitre1/android_R.png, id=35, 562.1pt x 1124.2pt>
+File: images/Chapitre1/android_R.png Graphic file (type png)
+<use images/Chapitre1/android_R.png>
+Package pdftex.def Info: images/Chapitre1/android_R.png  used on input line 51.
+(pdftex.def)             Requested size: 108.405pt x 216.808pt.
+ [9 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/android.jpg> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/surcouche.jpg>]
+<images/Chapitre1/android_architecture.jpg, id=42, 560.0925pt x 403.5075pt>
+File: images/Chapitre1/android_architecture.jpg Graphic file (type jpg)
+<use images/Chapitre1/android_architecture.jpg>
+Package pdftex.def Info: images/Chapitre1/android_architecture.jpg  used on input line 63.
+(pdftex.def)             Requested size: 361.34999pt x 260.3373pt.
+ [10 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/android_R.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/android_architecture.jpg>]
+<images/Chapitre1/ios_logo.jpg, id=47, 1027.84pt x 475.7775pt>
+File: images/Chapitre1/ios_logo.jpg Graphic file (type jpg)
+<use images/Chapitre1/ios_logo.jpg>
+Package pdftex.def Info: images/Chapitre1/ios_logo.jpg  used on input line 77.
+(pdftex.def)             Requested size: 85.35826pt x 39.50766pt.
+
+Underfull \hbox (badness 6110) in paragraph at lines 79--79
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 1.5 
+ []
+
+<images/Chapitre1/iosui.jpg, id=48, 1302.8675pt x 869.2475pt>
+File: images/Chapitre1/iosui.jpg Graphic file (type jpg)
+<use images/Chapitre1/iosui.jpg>
+Package pdftex.def Info: images/Chapitre1/iosui.jpg  used on input line 90.
+(pdftex.def)             Requested size: 361.34999pt x 241.07976pt.
+[11 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/ios_logo.jpg> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/iosui.jpg>]
+<images/Chapitre1/ios_architecture.png, id=52, 1786.675pt x 1027.84pt>
+File: images/Chapitre1/ios_architecture.png Graphic file (type png)
+<use images/Chapitre1/ios_architecture.png>
+Package pdftex.def Info: images/Chapitre1/ios_architecture.png  used on input line 108.
+(pdftex.def)             Requested size: 433.62pt x 249.44695pt.
+ [12 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/ios_architecture.png (PNG copy)>]
+<images/Chapitre1/app_downloads.jpg, id=56, 1455.4375pt x 867.24pt>
+File: images/Chapitre1/app_downloads.jpg Graphic file (type jpg)
+<use images/Chapitre1/app_downloads.jpg>
+Package pdftex.def Info: images/Chapitre1/app_downloads.jpg  used on input line 134.
+(pdftex.def)             Requested size: 332.44243pt x 198.08478pt.
+ [13 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/app_downloads.jpg>]
+<images/Chapitre1/type_applications_mobile.jpg, id=61, 640.3925pt x 408.52625pt>
+File: images/Chapitre1/type_applications_mobile.jpg Graphic file (type jpg)
+<use images/Chapitre1/type_applications_mobile.jpg>
+Package pdftex.def Info: images/Chapitre1/type_applications_mobile.jpg  used on input line 151.
+(pdftex.def)             Requested size: 433.62pt x 276.62225pt.
+ [14 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/type_applications_mobile.jpg>]) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/Chapter2.tex" [15]
+Chapitre 2.
+<images/flutterLogo.png, id=68, 250.9375pt x 250.9375pt>
+File: images/flutterLogo.png Graphic file (type png)
+<use images/flutterLogo.png>
+Package pdftex.def Info: images/flutterLogo.png  used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 56.90265pt.
+
+Overfull \hbox (1.92041pt too wide) in paragraph at lines 13--13
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 2.1
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 13--13
+\T1/cmr/m/n/12  \T1/cmr/m/n/10 Logo de
+ []
+
+[16
+
+ </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/flutterLogo.png>]
+<images/Chapitre2/reflectly_app.png, id=73, 1003.75pt x 677.53125pt>
+File: images/Chapitre2/reflectly_app.png Graphic file (type png)
+<use images/Chapitre2/reflectly_app.png>
+Package pdftex.def Info: images/Chapitre2/reflectly_app.png  used on input line 26.
+(pdftex.def)             Requested size: 216.81pt x 146.33836pt.
+<images/Chapitre2/flutter_architectures.png, id=74, 1842.885pt x 1511.6475pt>
+File: images/Chapitre2/flutter_architectures.png Graphic file (type png)
+<use images/Chapitre2/flutter_architectures.png>
+Package pdftex.def Info: images/Chapitre2/flutter_architectures.png  used on input line 36.
+(pdftex.def)             Requested size: 361.34999pt x 296.39622pt.
+ [17 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/reflectly_app.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/flutter_architectures.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+[18] [19]
+<images/Chapitre2/firebase_logo.png, id=87, 1927.2pt x 542.025pt>
+File: images/Chapitre2/firebase_logo.png Graphic file (type png)
+<use images/Chapitre2/firebase_logo.png>
+Package pdftex.def Info: images/Chapitre2/firebase_logo.png  used on input line 89.
+(pdftex.def)             Requested size: 85.35826pt x 24.00134pt.
+
+Underfull \hbox (badness 6110) in paragraph at lines 91--91
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 2.4 
+ []
+
+<images/Chapitre2/Firebase_services/firestore.PNG, id=88, 98.61844pt x 97.11281pt>
+File: images/Chapitre2/Firebase_services/firestore.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/firestore.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/firestore.PNG  used on input line 103.
+(pdftex.def)             Requested size: 28.45274pt x 28.01825pt.
+<images/Chapitre2/Firebase_services/mlkit.PNG, id=89, 99.37125pt x 100.12407pt>
+File: images/Chapitre2/Firebase_services/mlkit.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/mlkit.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/mlkit.PNG  used on input line 111.
+(pdftex.def)             Requested size: 28.45274pt x 28.66856pt.
+<images/Chapitre2/Firebase_services/cloud_function.PNG, id=90, 100.87688pt x 99.37125pt>
+File: images/Chapitre2/Firebase_services/cloud_function.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/cloud_function.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/cloud_function.PNG  used on input line 123.
+(pdftex.def)             Requested size: 28.45274pt x 28.02844pt.
+<images/Chapitre2/Firebase_services/authentication.PNG, id=91, 96.36pt x 96.36pt>
+File: images/Chapitre2/Firebase_services/authentication.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/authentication.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/authentication.PNG  used on input line 133.
+(pdftex.def)             Requested size: 28.45274pt x 28.45241pt.
+<images/Chapitre2/Firebase_services/hosting.PNG, id=92, 100.12407pt x 99.37125pt>
+File: images/Chapitre2/Firebase_services/hosting.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/hosting.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/hosting.PNG  used on input line 142.
+(pdftex.def)             Requested size: 28.45274pt x 28.2377pt.
+<images/Chapitre2/Firebase_services/cloud_storage.PNG, id=93, 99.37125pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/cloud_storage.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/cloud_storage.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/cloud_storage.PNG  used on input line 151.
+(pdftex.def)             Requested size: 28.45274pt x 28.0219pt.
+[20 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/firebase_logo.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/firestore.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/mlkit.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/cloud_function.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/authentication.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/hosting.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/cloud_storage.PNG>]
+<images/Chapitre2/Firebase_services/realtime_database.PNG, id=105, 97.11281pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/realtime_database.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/realtime_database.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/realtime_database.PNG  used on input line 160.
+(pdftex.def)             Requested size: 28.45274pt x 28.67299pt.
+<images/Chapitre2/Firebase_services/crashlytics.PNG, id=106, 97.11281pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/crashlytics.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/crashlytics.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/crashlytics.PNG  used on input line 171.
+(pdftex.def)             Requested size: 28.45274pt x 28.67299pt.
+<images/Chapitre2/Firebase_services/performance_monitoring.PNG, id=107, 98.61844pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/performance_monitoring.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/performance_monitoring.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/performance_monitoring.PNG  used on input line 179.
+(pdftex.def)             Requested size: 28.45274pt x 28.23544pt.
+<images/Chapitre2/Firebase_services/test_lab.PNG, id=108, 99.37125pt x 100.12407pt>
+File: images/Chapitre2/Firebase_services/test_lab.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/test_lab.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/test_lab.PNG  used on input line 186.
+(pdftex.def)             Requested size: 28.45274pt x 28.66856pt.
+<images/Chapitre2/Firebase_services/App_distribution.jpg, id=109, 13.4904pt x 13.7313pt>
+File: images/Chapitre2/Firebase_services/App_distribution.jpg Graphic file (type jpg)
+<use images/Chapitre2/Firebase_services/App_distribution.jpg>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/App_distribution.jpg  used on input line 194.
+(pdftex.def)             Requested size: 28.45274pt x 28.96095pt.
+<images/Chapitre2/Firebase_services/in-app_messaging.PNG, id=110, 100.87688pt x 100.87688pt>
+File: images/Chapitre2/Firebase_services/in-app_messaging.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/in-app_messaging.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/in-app_messaging.PNG  used on input line 204.
+(pdftex.def)             Requested size: 28.45274pt x 28.45313pt.
+<images/Chapitre2/Firebase_services/google_analytics.PNG, id=111, 98.61844pt x 100.87688pt>
+File: images/Chapitre2/Firebase_services/google_analytics.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/google_analytics.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/google_analytics.PNG  used on input line 212.
+(pdftex.def)             Requested size: 28.45274pt x 29.10423pt.
+<images/Chapitre2/Firebase_services/a_b_testing.PNG, id=112, 98.61844pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/a_b_testing.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/a_b_testing.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/a_b_testing.PNG  used on input line 219.
+(pdftex.def)             Requested size: 28.45274pt x 28.23544pt.
+<images/Chapitre2/Firebase_services/predictions.PNG, id=113, 100.12407pt x 99.37125pt>
+File: images/Chapitre2/Firebase_services/predictions.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/predictions.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/predictions.PNG  used on input line 227.
+(pdftex.def)             Requested size: 28.45274pt x 28.2377pt.
+ [21 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/realtime_database.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/crashlytics.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/performance_monitoring.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/test_lab.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/App_distribution.jpg> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/in-app_messaging.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/google_analytics.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/a_b_testing.PNG>]
+<images/Chapitre2/Firebase_services/cloud_messaging.PNG, id=124, 99.37125pt x 99.37125pt>
+File: images/Chapitre2/Firebase_services/cloud_messaging.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/cloud_messaging.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/cloud_messaging.PNG  used on input line 236.
+(pdftex.def)             Requested size: 28.45274pt x 28.453pt.
+<images/Chapitre2/Firebase_services/remote_config.PNG, id=125, 97.86563pt x 97.86563pt>
+File: images/Chapitre2/Firebase_services/remote_config.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/remote_config.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/remote_config.PNG  used on input line 246.
+(pdftex.def)             Requested size: 28.45274pt x 28.45197pt.
+<images/Chapitre2/Firebase_services/dynamic_links.PNG, id=126, 100.12407pt x 100.87688pt>
+File: images/Chapitre2/Firebase_services/dynamic_links.PNG Graphic file (type png)
+<use images/Chapitre2/Firebase_services/dynamic_links.PNG>
+Package pdftex.def Info: images/Chapitre2/Firebase_services/dynamic_links.PNG  used on input line 256.
+(pdftex.def)             Requested size: 28.45274pt x 28.66554pt.
+<images/Chapitre2/parse_logo.png, id=127, 379.4175pt x 133.49875pt>
+File: images/Chapitre2/parse_logo.png Graphic file (type png)
+<use images/Chapitre2/parse_logo.png>
+Package pdftex.def Info: images/Chapitre2/parse_logo.png  used on input line 273.
+(pdftex.def)             Requested size: 56.9055pt x 20.0219pt.
+
+Overfull \hbox (1.92041pt too wide) in paragraph at lines 275--275
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 2.5
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 275--275
+\T1/cmr/m/n/12  \T1/cmr/m/n/10 Logo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--276
+[]\T1/cmr/bx/n/12 Parse :
+ []
+
+[22 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/predictions.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/cloud_messaging.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/remote_config.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/Firebase_services/dynamic_links.PNG> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/parse_logo.png>]
+<images/Chapitre2/firebase_pricing_offers.PNG, id=136, 591.71063pt x 143.03438pt>
+File: images/Chapitre2/firebase_pricing_offers.PNG Graphic file (type png)
+<use images/Chapitre2/firebase_pricing_offers.PNG>
+Package pdftex.def Info: images/Chapitre2/firebase_pricing_offers.PNG  used on input line 301.
+(pdftex.def)             Requested size: 433.62pt x 104.82234pt.
+ [23 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/firebase_pricing_offers.PNG>]
+<images/Chapitre2/GoogleAPIs.jpeg, id=141, 375.804pt x 187.902pt>
+File: images/Chapitre2/GoogleAPIs.jpeg Graphic file (type jpg)
+<use images/Chapitre2/GoogleAPIs.jpeg>
+Package pdftex.def Info: images/Chapitre2/GoogleAPIs.jpeg  used on input line 327.
+(pdftex.def)             Requested size: 289.07999pt x 144.54735pt.
+ [24 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/GoogleAPIs.jpeg>]
+<images/Chapitre2/GoogleMapsMobile.png, id=145, 800.9925pt x 1606.0pt>
+File: images/Chapitre2/GoogleMapsMobile.png Graphic file (type png)
+<use images/Chapitre2/GoogleMapsMobile.png>
+Package pdftex.def Info: images/Chapitre2/GoogleMapsMobile.png  used on input line 368.
+(pdftex.def)             Requested size: 144.54pt x 289.80269pt.
+) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/Chapter3.tex" [25 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre2/GoogleMapsMobile.png>]
+Chapitre 3.
+[26
+
+]
+<images/Chapitre1/tripadvisor.png, id=154, 200.75pt x 170.6375pt>
+File: images/Chapitre1/tripadvisor.png Graphic file (type png)
+<use images/Chapitre1/tripadvisor.png>
+Package pdftex.def Info: images/Chapitre1/tripadvisor.png  used on input line 16.
+(pdftex.def)             Requested size: 56.9055pt x 48.3692pt.
+
+Overfull \hbox (1.92041pt too wide) in paragraph at lines 18--18
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 3.1
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 18--18
+\T1/cmr/m/n/12  \T1/cmr/m/n/10 Logo de
+ []
+
+<images/Chapitre1/trip_advisor.jpeg, id=155, 2439.1125pt x 1445.4pt>
+File: images/Chapitre1/trip_advisor.jpeg Graphic file (type jpg)
+<use images/Chapitre1/trip_advisor.jpeg>
+Package pdftex.def Info: images/Chapitre1/trip_advisor.jpeg  used on input line 45.
+(pdftex.def)             Requested size: 289.07999pt x 171.30118pt.
+[27 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/tripadvisor.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/trip_advisor.jpeg>]
+<images/Chapitre1/googlemaps.png, id=160, 1204.5pt x 1204.5pt>
+File: images/Chapitre1/googlemaps.png Graphic file (type png)
+<use images/Chapitre1/googlemaps.png>
+Package pdftex.def Info: images/Chapitre1/googlemaps.png  used on input line 53.
+(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+
+Overfull \hbox (1.92041pt too wide) in paragraph at lines 55--55
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 3.3
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 55--55
+\T1/cmr/m/n/12  \T1/cmr/m/n/10 Logo de
+ []
+
+<images/Chapitre1/page_resto.jpg, id=161, 786.2976pt x 486.618pt>
+File: images/Chapitre1/page_resto.jpg Graphic file (type jpg)
+<use images/Chapitre1/page_resto.jpg>
+Package pdftex.def Info: images/Chapitre1/page_resto.jpg  used on input line 84.
+(pdftex.def)             Requested size: 325.215pt x 201.26701pt.
+[28 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/googlemaps.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/page_resto.jpg>]
+<images/Chapitre1/lafourchette.jpg, id=166, 355.3275pt x 355.3275pt>
+File: images/Chapitre1/lafourchette.jpg Graphic file (type jpg)
+<use images/Chapitre1/lafourchette.jpg>
+Package pdftex.def Info: images/Chapitre1/lafourchette.jpg  used on input line 96.
+(pdftex.def)             Requested size: 85.35826pt x 85.35623pt.
+
+Underfull \hbox (badness 6110) in paragraph at lines 98--98
+[]\T1/cmr/m/sc/12 Figure \T1/cmr/m/n/12 3.5 
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 98--98
+\T1/cmr/m/n/10 Logo de La-Four-
+ []
+
+[29 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre1/lafourchette.jpg>]
+<images/Chapitre3/enchainement_lancement_application.jpg, id=170, 473.77pt x 314.17375pt>
+File: images/Chapitre3/enchainement_lancement_application.jpg Graphic file (type jpg)
+<use images/Chapitre3/enchainement_lancement_application.jpg>
+Package pdftex.def Info: images/Chapitre3/enchainement_lancement_application.jpg  used on input line 141.
+(pdftex.def)             Requested size: 361.34999pt x 239.63263pt.
+<images/Chapitre3/enchainement_recherche_resto_menu.jpg, id=171, 114.6684pt x 100.9371pt>
+File: images/Chapitre3/enchainement_recherche_resto_menu.jpg Graphic file (type jpg)
+<use images/Chapitre3/enchainement_recherche_resto_menu.jpg>
+Package pdftex.def Info: images/Chapitre3/enchainement_recherche_resto_menu.jpg  used on input line 149.
+(pdftex.def)             Requested size: 289.07999pt x 254.4891pt.
+<images/Chapitre3/enchainement_affichage_resto_menu.jpg, id=172, 111.0549pt x 124.3044pt>
+File: images/Chapitre3/enchainement_affichage_resto_menu.jpg Graphic file (type jpg)
+<use images/Chapitre3/enchainement_affichage_resto_menu.jpg>
+Package pdftex.def Info: images/Chapitre3/enchainement_affichage_resto_menu.jpg  used on input line 157.
+(pdftex.def)             Requested size: 216.81pt x 242.69225pt.
+ [30 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/enchainement_lancement_application.jpg> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/enchainement_recherche_resto_menu.jpg>]
+<images/Chapitre3/Diagramme_action.png, id=176, 987.69pt x 455.7025pt>
+File: images/Chapitre3/Diagramme_action.png Graphic file (type png)
+<use images/Chapitre3/Diagramme_action.png>
+Package pdftex.def Info: images/Chapitre3/Diagramme_action.png  used on input line 167.
+(pdftex.def)             Requested size: 433.62pt x 200.05774pt.
+ [31 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/enchainement_affichage_resto_menu.jpg> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/Diagramme_action.png>]
+<images/Chapitre3/balmockups.png, id=182, 552.0625pt x 552.0625pt>
+File: images/Chapitre3/balmockups.png Graphic file (type png)
+<use images/Chapitre3/balmockups.png>
+Package pdftex.def Info: images/Chapitre3/balmockups.png  used on input line 188.
+(pdftex.def)             Requested size: 113.81102pt x 113.80533pt.
+<images/Chapitre3/interface_balsamiq.png, id=183, 1284.8pt x 755.82375pt>
+File: images/Chapitre3/interface_balsamiq.png Graphic file (type png)
+<use images/Chapitre3/interface_balsamiq.png>
+Package pdftex.def Info: images/Chapitre3/interface_balsamiq.png  used on input line 195.
+(pdftex.def)             Requested size: 433.62pt x 255.08527pt.
+ [32 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/balmockups.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/interface_balsamiq.png>]
+<images/Chapitre3/maquettes_balsamiq/Acceuil.png, id=189, 783.92876pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Acceuil.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Acceuil.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Acceuil.png  used on input line 203.
+(pdftex.def)             Requested size: 227.62204pt x 262.30287pt.
+<images/Chapitre3/maquettes_balsamiq/Connection.png, id=190, 783.92876pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Connection.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Connection.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Connection.png  used on input line 209.
+(pdftex.def)             Requested size: 227.62204pt x 262.30287pt.
+ [33 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Acceuil.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Connection.png>]
+<images/Chapitre3/maquettes_balsamiq/Creer.png, id=196, 783.92876pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Creer.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Creer.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Creer.png  used on input line 216.
+(pdftex.def)             Requested size: 227.62204pt x 262.30287pt.
+<images/Chapitre3/maquettes_balsamiq/Confirmation.png, id=197, 783.92876pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Confirmation.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Confirmation.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Confirmation.png  used on input line 222.
+(pdftex.def)             Requested size: 227.62204pt x 262.30287pt.
+ [34 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Creer.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Confirmation.png>]
+<images/Chapitre3/maquettes_balsamiq/mot_de_passe_oublieÃÅ.png, id=203, 781.92125pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/mot_de_passe_oublieÃÅ.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/mot_de_passe_oublieÃÅ.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/mot_de_passe_oublieÃÅ.png  used on input line 229.
+(pdftex.def)             Requested size: 227.62204pt x 262.9783pt.
+<images/Chapitre3/maquettes_balsamiq/Restaurant_card.png, id=204, 783.92876pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Restaurant_card.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Restaurant_card.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Restaurant_card.png  used on input line 235.
+(pdftex.def)             Requested size: 227.62204pt x 262.30287pt.
+ [35 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/mot_de_passe_oublieÃÅ.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Restaurant_card.png>]
+<images/Chapitre3/maquettes_balsamiq/Page_restaurant.png, id=210, 800.9925pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Page_restaurant.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Page_restaurant.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Page_restaurant.png  used on input line 242.
+(pdftex.def)             Requested size: 227.62204pt x 256.7064pt.
+<images/Chapitre3/maquettes_balsamiq/page_menu .png, id=211, 817.0525pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/page_menu .png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/page_menu .png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/page_menu .png  used on input line 248.
+(pdftex.def)             Requested size: 227.62204pt x 251.66133pt.
+ [36 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Page_restaurant.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/page_menu .png>]
+<images/Chapitre3/maquettes_balsamiq/page_avis.png, id=217, 1378.14874pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/page_avis.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/page_avis.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/page_avis.png  used on input line 255.
+(pdftex.def)             Requested size: 398.33858pt x 261.10362pt.
+<images/Chapitre3/maquettes_balsamiq/Page_de_recherche.png, id=218, 849.1725pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Page_de_recherche.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Page_de_recherche.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Page_de_recherche.png  used on input line 261.
+(pdftex.def)             Requested size: 227.62204pt x 242.15012pt.
+ [37 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/page_avis.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Page_de_recherche.png>]
+<images/Chapitre3/maquettes_balsamiq/Profil.png, id=225, 948.54375pt x 1858.945pt>
+File: images/Chapitre3/maquettes_balsamiq/Profil.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Profil.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Profil.png  used on input line 268.
+(pdftex.def)             Requested size: 284.52756pt x 557.60272pt.
+ [38 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Profil.png>]
+<images/Chapitre3/maquettes_balsamiq/Filtre.png, id=230, 776.9025pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/Filtre.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/Filtre.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/Filtre.png  used on input line 275.
+(pdftex.def)             Requested size: 227.62204pt x 264.67378pt.
+<images/Chapitre3/maquettes_balsamiq/favorite_restaurants.png, id=231, 755.82375pt x 903.375pt>
+File: images/Chapitre3/maquettes_balsamiq/favorite_restaurants.png Graphic file (type png)
+<use images/Chapitre3/maquettes_balsamiq/favorite_restaurants.png>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/favorite_restaurants.png  used on input line 281.
+(pdftex.def)             Requested size: 227.62204pt x 272.04842pt.
+ [39 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/Filtre.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/favorite_restaurants.png>]
+<images/Chapitre3/material design.png, id=237, 1525.7pt x 1124.2pt>
+File: images/Chapitre3/material design.png Graphic file (type png)
+<use images/Chapitre3/material design.png>
+Package pdftex.def Info: images/Chapitre3/material design.png  used on input line 304.
+(pdftex.def)             Requested size: 361.34999pt x 266.2455pt.
+<images/Chapitre3/AdobeXD.png, id=238, 803.0pt x 782.925pt>
+File: images/Chapitre3/AdobeXD.png Graphic file (type png)
+<use images/Chapitre3/AdobeXD.png>
+Package pdftex.def Info: images/Chapitre3/AdobeXD.png  used on input line 313.
+(pdftex.def)             Requested size: 85.35826pt x 83.21902pt.
+<images/Chapitre3/interface_adobe_xd.png, id=239, 1284.29813pt x 759.83875pt>
+File: images/Chapitre3/interface_adobe_xd.png Graphic file (type png)
+<use images/Chapitre3/interface_adobe_xd.png>
+Package pdftex.def Info: images/Chapitre3/interface_adobe_xd.png  used on input line 320.
+(pdftex.def)             Requested size: 469.75499pt x 277.92433pt.
+ [40 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/material design.png>] [41 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/AdobeXD.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/interface_adobe_xd.png>]
+<images/Chapitre3/maquettes_balsamiq/p1.jpg, id=249, 537.9297pt x 540.3387pt>
+File: images/Chapitre3/maquettes_balsamiq/p1.jpg Graphic file (type jpg)
+<use images/Chapitre3/maquettes_balsamiq/p1.jpg>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/p1.jpg  used on input line 330.
+(pdftex.def)             Requested size: 469.75499pt x 471.87178pt.
+ [42 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/p1.jpg>]
+<images/Chapitre3/maquettes_balsamiq/p2.jpg, id=253, 485.1726pt x 538.1706pt>
+File: images/Chapitre3/maquettes_balsamiq/p2.jpg Graphic file (type jpg)
+<use images/Chapitre3/maquettes_balsamiq/p2.jpg>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/p2.jpg  used on input line 338.
+(pdftex.def)             Requested size: 469.75499pt x 521.08049pt.
+ [43 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/p2.jpg>]
+<images/Chapitre3/maquettes_balsamiq/p3.jpg, id=258, 465.6597pt x 498.1812pt>
+File: images/Chapitre3/maquettes_balsamiq/p3.jpg Graphic file (type jpg)
+<use images/Chapitre3/maquettes_balsamiq/p3.jpg>
+Package pdftex.def Info: images/Chapitre3/maquettes_balsamiq/p3.jpg  used on input line 346.
+(pdftex.def)             Requested size: 469.75499pt x 502.5585pt.
+ [44 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/maquettes_balsamiq/p3.jpg>] [45]
+<images/Chapitre3/vscode.png, id=265, 1204.5pt x 1204.5pt>
+File: images/Chapitre3/vscode.png Graphic file (type png)
+<use images/Chapitre3/vscode.png>
+Package pdftex.def Info: images/Chapitre3/vscode.png  used on input line 382.
+(pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
+<images/Chapitre3/interface_vs_code.png, id=266, 770.12718pt x 578.16pt>
+File: images/Chapitre3/interface_vs_code.png Graphic file (type png)
+<use images/Chapitre3/interface_vs_code.png>
+Package pdftex.def Info: images/Chapitre3/interface_vs_code.png  used on input line 389.
+(pdftex.def)             Requested size: 433.62pt x 325.53178pt.
+ [46 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/vscode.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/interface_vs_code.png>]
+<images/Chapitre3/firebase.png, id=272, 1284.8pt x 441.65pt>
+File: images/Chapitre3/firebase.png Graphic file (type png)
+<use images/Chapitre3/firebase.png>
+Package pdftex.def Info: images/Chapitre3/firebase.png  used on input line 409.
+(pdftex.def)             Requested size: 227.62204pt x 78.2401pt.
+<images/Chapitre3/firebase_console.png, id=273, 1677.26625pt x 882.79813pt>
+File: images/Chapitre3/firebase_console.png Graphic file (type png)
+<use images/Chapitre3/firebase_console.png>
+Package pdftex.def Info: images/Chapitre3/firebase_console.png  used on input line 416.
+(pdftex.def)             Requested size: 505.89pt x 266.25587pt.
+
+Overfull \hbox (36.13498pt too wide) in paragraph at lines 416--418
+ [][] 
+ []
+
+[47 </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/firebase.png> </Users/macbook/Desktop/Pfe/Latex v2/Latex v2/images/Chapitre3/firebase_console.png>]) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/Conclusion.tex" [48]
+Chapitre 4.
+) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+[49
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+[]\T1/cmr/m/n/12 Cycle de vie du dÈ-ve-lop-pe-ment d'une ap-pli-ca-tion mo-bile.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+\T1/cmr/m/n/12 https ://appinov.com/blog/article/cycle-de-vie-du-developpement-d-une-application-
+ []
+
+
+Overfull \hbox (492.69872pt too wide) in paragraph at lines 13--16
+[]\T1/cmr/m/n/12 Firebase Pri-cing.  https ://fi-re-base.google.com/pricing/ ?gclid=CjwKCAjw19z6BRAYEiwAmo64LfroajM6NixUZ1jph_6HHS_tkvt6uEBi0bvl88MF8GvwjtxhILeaExoCD2IQAvD_BwE. 
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 18--20
+[]\T1/cmr/m/n/12 Flutter ar-chi-tec-tu-ral over-view.  https ://flutter.dev/docs/resources/architectural-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+[]\T1/cmr/m/n/12 Le Dart | SU-PINFO, …cole Su-pÈ-rieure d'In-for-ma-tique.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/cmr/m/n/12 le-site-de-reservation-la-fourchette-change-de-nom-pour-the-fork-meme-en-france_AN-
+ []
+
+
+Overfull \hbox (169.49034pt too wide) in paragraph at lines 36--39
+[]\T1/cmr/m/n/12 SystËme d'ex-ploi-ta-tion mo-bile  Wi-ki-pÈ-dia.  https ://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation_mobile. 
+ []
+
+) ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/Parts/resume.tex" [50
+
+]) [51] ("/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11874 strings out of 481200
+ 212147 string characters out of 2902759
+ 503449 words of memory out of 3000000
+ 27161 multiletter control sequences out of 15000+200000
+ 549142 words of font info for 60 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,11n,45p,1034b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1200.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </Users/macbook/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk>
+Output written on "/Users/macbook/Desktop/Pfe/Latex v2/Latex v2/report.pdf" (51 pages, 15934728 bytes).
+PDF statistics:
+ 648 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+
